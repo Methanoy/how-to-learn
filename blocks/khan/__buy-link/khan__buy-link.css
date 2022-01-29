@@ -1,0 +1,12 @@
+.khan__buy-link {
+  margin: 0;
+  padding: 0;
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+  color: #2f80ed;
+  text-decoration: none;
+  /*В брифе высота блока не задана и на образце он "уходит вниз", за макет. Однако все равно решил задать height, чтобы активная область нажатия для ссылки была только в рамках текста*/
+  height: 100%;
+  opacity: 1;
+}

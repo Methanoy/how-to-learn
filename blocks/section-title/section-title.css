@@ -1,7 +1,8 @@
 .section-title {
   display: flex;
-  align-self: center;
   justify-content: center;
+  align-self: center;
+  text-align: center;
   width: 60%;
   margin: 0;
   padding: 0;
