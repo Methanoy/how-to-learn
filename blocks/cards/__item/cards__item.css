@@ -1,4 +1,4 @@
-.cards__items {
+.cards__item {
   display: flex;
   flex-direction: column;
   max-width: 240px;

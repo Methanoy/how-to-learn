@@ -1,7 +1,7 @@
-.video__frames {
+.video__iframes {
   display: flex;
   margin: auto;
   padding-top: 50px;
-  order: 3;
   gap: 20px;
+  list-style: none;
 }
