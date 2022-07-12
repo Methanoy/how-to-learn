@@ -1,5 +1,9 @@
 <h1 align="center">Научиться учиться</h1>
 
+## Ссылка на GitHub Pages
+
+[Проект на GitHub Pages](https://methanoy.github.io/how-to-learn/)
+
 ## Описание
 
 <h2 align="center"><img src="./gif/description_how-to-learn.gif" width="100%"></h2>
@@ -12,14 +16,16 @@
 
 ## Технологии
 ### HTML
-- Нативный HTML5
-- iframe
-- Api YouTube
+- Нативный HTML5.
+- iframe.
+- Api YouTube.
+
 ### CSS
 - Flexbox
-- Анимация и трансформация
+- Анимация и трансформация.
+
 ### Иное
 - Методология БЭМ для разметки, CSS и построения файловой структуры проекта.
-## Планы
-- Заменить Flexbox на Grid.
 
+## Планы
+- Добавить адаптивность для смартфонов.
